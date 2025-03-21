@@ -1,0 +1,4 @@
+2025-03-21 11:21:40.179 [main] INFO  storeautomation.api.test.UserTest_propfile - ************* Creating User ******************
+2025-03-21 11:21:41.667 [main] INFO  storeautomation.api.test.UserTest_propfile - ************* Getting the User ******************
+2025-03-21 11:21:41.805 [main] INFO  storeautomation.api.test.UserTest_propfile - ************* Updating User ******************
+2025-03-21 11:21:42.009 [main] INFO  storeautomation.api.test.UserTest_propfile - ************* Deleting User ******************

@@ -1,0 +1,10 @@
+storeautomation\api\endpoints\UserEndPoints.class
+storeautomation\api\test\UserTest_propfile.class
+storeautomation\api\utilities\XLUtility.class
+storeautomation\api\utilities\ExtentReportManager.class
+storeautomation\api\test\DDTests.class
+storeautomation\api\utilities\DataProviders.class
+storeautomation\api\endpoints\Routes.class
+storeautomation\api\payload\User.class
+storeautomation\api\endpoints\UserEndPoints_propfile.class
+storeautomation\api\test\UserTest.class
